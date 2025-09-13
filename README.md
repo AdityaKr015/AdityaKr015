@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/1*XgwJgF0EcYUShkNjqz8NeA.gif" alt="MasterHead" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">I’m a Computer Science AIML student from India</h3>
 
