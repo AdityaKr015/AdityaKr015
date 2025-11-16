@@ -1,30 +1,83 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">I’m a Computer Science AIML student from India</h3>
+<h3 align="center">🚀 2nd Year B.Tech AIML Student from India</h3>
 
+![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
+
+---
+
+### 🌱 About Me  
+- 🎓 Pursuing **B.Tech in Computer Science AIML**  
+- 💡 Passionate about **Machine Learning,Deep Learning and Solving Real Life Problem**  
+- 📊 Currently learning **Machine Learning**    
+- 💬 Ask me about **Python,ML/DL or AI projects**  
+- 📫 Reach me at **ak1415966@gmail.com**  
+- ⚡ Fun fact: **I break code faster than I fix it… but it works in the end**  
+
+---
+### 🧠 My Daily Workflow   
+- 📝 Learn a new concept just because I'm curious    
+---
+
+### 🧩 AI & ML Tools I Use  
 <p align="center">
-  <img alt="Coding" width="400" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" height="70" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" height="70" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="70" height="70" alt="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="70" height="70" alt="Streamlit"/>
+
 </p>
 
+---
 
+### 🏅 Developer Highlights  
+
+| 💫 Category | 🌟 Achievement |
+|--------------|----------------|
+| ⭐ **Total Stars Earned** | **5** |
+| 🔁 **Total Commits (2025)** | **70+** |
+| 🧩 **Issues Solved** | **0** |
+| 🚀 **Projects Built** | **4+ Innovative Projects** |
+| 💡 **Focus Areas** | AI • Depp Learning • Machine Learning • Computer Vision |
+| 🌱 **Learning** | Python • ML • DL |
+
+---
+### 🕒 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKr015&theme=react-dark&hide_border=true&area=true" alt="Aditya's GitHub Contribution Graph"/>
+</p>
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKr015&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakr015&label=Profile%20views&color=0e75b6&style=flat" alt="adityakr015" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakr015" alt="adityakr015" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **ak1415966@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-kumar-7b6922342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-7b6922342" height="30" width="40" /></a>
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/thedebugger2025" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/AdityaKr015" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakr015&show_icons=true&locale=en&layout=compact" alt="adityakr015" /></p>
+⭐ Where curiosity meets code and models start making sense.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakr015&show_icons=true&locale=en" alt="adityakr015" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakr015&" alt="adityakr015" /></p>
