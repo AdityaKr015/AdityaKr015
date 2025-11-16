@@ -41,7 +41,7 @@
 | 🔁 **Total Commits (2025)** | **70+** |
 | 🧩 **Issues Solved** | **0** |
 | 🚀 **Projects Built** | **4+ Innovative Projects** |
-| 💡 **Focus Areas** | AI • Depp Learning • Machine Learning • Computer Vision |
+| 💡 **Focus Areas** | AI • Deep Learning • Machine Learning • Computer Vision |
 | 🌱 **Learning** | Python • ML • DL |
 
 ---
