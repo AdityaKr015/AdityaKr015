@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">🚀 2nd Year B.Tech AIML Student from India</h3>
-
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
----
+*Digital Craftsman (AIML Developer / ML Engineer in Progress)*
+
+I am an AI & Machine Learning Enthusiast with a strong love for Python, Computer Vision, Deep Learning, Model Training and solving real-world problems through intelligent systems.
 
 ### 🌱 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science AIML**  
+- 🎓 **2nd Year B.Tech AIML Student**  
 - 💡 Passionate about **Machine Learning,Deep Learning and Solving Real Life Problem**  
-- 📊 Currently learning **Machine Learning**    
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.   
 - 💬 Ask me about **Python,ML/DL or AI projects**  
 - 📫 Reach me at **ak1415966@gmail.com**  
-- ⚡ Fun fact: **I break code faster than I fix it… but it works in the end**  
+- ⚡ Fun fact: **I break code faster than I fix it… but it works in the end**
 
----
-### 🧠 My Daily Workflow   
-- 📝 Learn a new concept just because I'm curious    
----
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p> 
 
-### 🧩 AI & ML Tools I Use  
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70" alt="C"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70" alt="Scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" height="70" alt="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" height="70" alt="Matplotlib"/>
@@ -28,8 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="70" height="70" alt="Streamlit"/>
-
 </p>
+
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring Streamlit.</li>
+</ul>
 
 ---
 
@@ -59,9 +70,15 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakr015&label=Profile%20views&color=0e75b6&style=flat" alt="adityakr015" /> </p>
+### Stats 📈
 
----
+<p align="center">
+    <a href="https://github.com/AdityaKr015">
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=AdityaKr015&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Aditya's GitHub Stats" />
+    </a>
+</p>
+
+<!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKr015&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117) -->
 
 ### 🤝 Connect With Me  
 <p align="center">
