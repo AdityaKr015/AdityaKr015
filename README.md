@@ -70,13 +70,6 @@ I am an AI & Machine Learning Enthusiast with a strong love for Python, Computer
 
 ---
 
-### Stats 📈
-
-<p align="center">
-    <a href="https://github.com/AdityaKr015">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=AdityaKr015&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Aditya's GitHub Stats" />
-    </a>
-</p>
 
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKr015&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117) -->
 
