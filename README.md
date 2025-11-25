@@ -1,7 +1,7 @@
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
-*Digital Craftsman (AIML Developer / ML Engineer in Progress)*
+*AIML Developer / ML Engineer in Progress*
 
 I am an AI & Machine Learning Enthusiast with a strong love for Python, Computer Vision, Deep Learning, Model Training and solving real-world problems through intelligent systems.
 
