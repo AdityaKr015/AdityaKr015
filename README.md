@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
 
-I am aEnthusiast Learner with strong love for  AIML, Computer Vision, Transformer Related Projects 
+I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transformer Related Projects 
 
 ### 🌱 About Me  
 - 🎓 **2nd Year B.Tech AIML Student**  
