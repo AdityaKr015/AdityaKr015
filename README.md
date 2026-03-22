@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
 
-I am an AI & Machine Learning Enthusiast with a strong love for Python, Computer Vision, Deep Learning, Model Training and solving real-world problems through intelligent systems.
+I am aEnthusiast Learner with strong love for  AIML, Computer Vision, Transformer Related Projects 
 
 ### 🌱 About Me  
 - 🎓 **2nd Year B.Tech AIML Student**  
@@ -35,8 +35,8 @@ I am an AI & Machine Learning Enthusiast with a strong love for Python, Computer
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring Streamlit.</li>
+  <li>Deepening my knowledge in Machine Learning and Deep Learning</li>
+  <li>Exploring Transformer.</li>
 </ul>
 
 ---
