@@ -59,15 +59,6 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKr015&theme=react-dark&hide_border=true&area=true" alt="Aditya's GitHub Contribution Graph"/>
 </p>
 
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKr015&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKr015&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117) -->
 
 ### 🤝 Connect With Me  
