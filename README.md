@@ -1,14 +1,7 @@
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
 
-I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transformer Related Projects 
-
-### 🌱 About Me  
-- 🎓 **2nd Year B.Tech AIML Student**  
-- 💡 Passionate about **Machine Learning,Deep Learning and Solving Real Life Problem**  
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.   
-- 💬 Ask me about **Python,ML/DL or AI projects**  
-- 📫 Reach me at **ak1415966@gmail.com**  
-- ⚡ Fun fact: **I break code faster than I fix it… but it works in the end**
+I am an Enthusiast Learner with strong love for AIML, Computer Vision, Transformer Related Projects. 
+Getting into Open Source Contribution. Open to collaborate in projects, feel free to contact.
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -26,19 +19,11 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
 
 **Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` 
 
-**ML/DL:** `PyTorch` · `TRansformers` · `YOLO` · `Computer Vision` · `NLP` 
-
+**ML/DL:** `PyTorch` · `Transformers` · `YOLO` · `Computer Vision` · `NLP` 
 
 </div>
 
 ---
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and Deep Learning</li>
-  <li>Exploring Transformer.</li>
-</ul>
-
 
 ## 3D Contribution Graph
 
@@ -79,7 +64,5 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
 </p>
 
 ---
-
-⭐ Where curiosity meets code and models start making sense.
 
 
