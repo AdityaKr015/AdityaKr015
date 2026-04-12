@@ -24,9 +24,9 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
 
 **Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux`
 
-**Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` · `
+**Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` 
 
-**ML/DL:** `PyTorch` · `TRansformers` · `YOLO` · `Computer Vision` · `NLP` · 
+**ML/DL:** `PyTorch` · `TRansformers` · `YOLO` · `Computer Vision` · `NLP` 
 
 
 </div>
