@@ -39,20 +39,6 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
   <li>Exploring Transformer.</li>
 </ul>
 
----
-
-### 🏅 Developer Highlights  
-
-| 💫 Category | 🌟 Achievement |
-|--------------|----------------|
-| ⭐ **Total Stars Earned** | **5** |
-| 🔁 **Total Commits (2025)** | **70+** |
-| 🧩 **Issues Solved** | **0** |
-| 🚀 **Projects Built** | **4+ Innovative Projects** |
-| 💡 **Focus Areas** | AI • Deep Learning • Machine Learning • Computer Vision |
-| 🌱 **Learning** | Python • ML • DL |
-
----
 
 ## 3D Contribution Graph
 
