@@ -15,7 +15,7 @@ Getting into Open Source Contribution. Open to collaborate in projects, feel fre
 
 **Languages:** `Python` · `C/C++`
 
-**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux`
+**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux` · `Hugging Face`
 
 **Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` 
 
