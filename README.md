@@ -88,8 +88,9 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
   <a href="https://github.com/AdityaKr015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.kaggle.com/thedebugger2025" target="_blank">
+  <a href="https://www.kaggle.com/thedebugger2025">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
 ---
