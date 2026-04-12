@@ -18,20 +18,20 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70" alt="C"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" height="70" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" height="70" alt="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="70" height="70" alt="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="70" height="70" alt="Streamlit"/>
-</p>
+<div align="center">
 
+**Languages:** `Python` · `C/C++`
+
+**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux`
+
+**Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` · `
+
+**ML/DL:** `PyTorch` · `TRansformers` · `YOLO` · `Computer Vision` · `NLP` · 
+
+
+</div>
+
+---
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
@@ -53,25 +53,43 @@ I am an Enthusiast Learner with strong love for  AIML, Computer Vision, Transfor
 | 🌱 **Learning** | Python • ML • DL |
 
 ---
-### 🕒 Contribution Graph  
+
+## 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKr015&theme=react-dark&hide_border=true&area=true" alt="Aditya's GitHub Contribution Graph"/>
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=AdityaKr015&theme=neon&stats=true" alt="3d contributions"/>
 </p>
 
-<!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKr015&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117) -->
+---
+
+## Play Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdityaKr015&theme=transparent&hide_border=true&bg_color=1a0a2e&text_color=9b4dca&title_color=9b4dca&fire=ff6b6b&ring=9b4dca&sideNums=9b4dca" alt="stats"/>
+</p>
+
+---
 
 ### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AdityaKr015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.kaggle.com/thedebugger2025" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/AdityaKr015" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </p>
 
 ---
