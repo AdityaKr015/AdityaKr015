@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p> 
 
+---
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 
@@ -44,6 +46,8 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
+
+---
 
 ## Stats
 
