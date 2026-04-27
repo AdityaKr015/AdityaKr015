@@ -1,10 +1,5 @@
 ![Header](https://github.com/user-attachments/assets/03f955d6-ea2d-4c3b-901f-889dd1413314)
 
-## About me
-- I am an Enthusiast Learner with strong love for AIML, Computer Vision, Transformer Related Projects. 
-- Getting into Open Source Contribution.
-- Open to collaborate in projects, feel free to contact.
-
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
