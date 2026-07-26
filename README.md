@@ -24,14 +24,6 @@
 
 ---
 
-## 3D Contribution Graph
-
-<p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=AdityaKr015&theme=neon&stats=true" alt="3d contributions"/>
-</p>
-
----
-
 ## Play Snake
 
 <p align="center">
