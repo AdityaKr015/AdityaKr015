@@ -14,11 +14,11 @@
 
 **Languages:** `Python` · `C/C++`
 
-**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux` · `Hugging Face`
+**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux` · `Hugging Face` . `Roboflow`
 
 **Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` 
 
-**ML/DL:** `PyTorch` · `Transformers` · `YOLO` · `Computer Vision` · `NLP` 
+**ML/DL:** `PyTorch` · `Transformers` · `Computer Vision` · `NLP` 
 
 </div>
 
