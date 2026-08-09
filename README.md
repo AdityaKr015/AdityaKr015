@@ -79,7 +79,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaKr015&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165"/>
@@ -93,7 +93,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/">
