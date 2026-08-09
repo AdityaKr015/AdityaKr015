@@ -1,61 +1,116 @@
-![Header](<https://github.com/user-attachments/assets/bb318ad9-df47-4904-88ce-29c57c7a41c6/>)
+<!-- Profile views + followers -->
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=AdityaKr015">
+    <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20Views&color=b4befe&style=flat-square" alt="Profile Views"/>
+  </a>
+</p>
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p> 
-
----
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
-
-<div align="center">
-
-**Languages:** `Python` · `C/C++`
-
-**Developer Tools:** `Git` · `Google Colab` · `Kaggle` · `VS Code` · `Linux` · `Hugging Face` . `Roboflow`
-
-**Libraries/Frameworks:** `NumPy` · `scikit-learn` · `pandas` · `matplotlib` · `gradio` · `streamlit` 
-
-**ML/DL:** `PyTorch` · `Transformers` · `Computer Vision` · `NLP` 
-
-</div>
-
----
-
-## Play Snake
+<h1 align="center">Hey Fellas, I'm Aditya Kumar</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <b>AI/ML Student &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Open Source Contributor</b><br/>
+  3rd Year B.Tech AI/ML &nbsp;·&nbsp; India<br/>
+  Building real-world CV systems and contributing to open source C++ desktop projects
 </p>
 
 ---
 
-## Stats
+## 🔭 Currently Working On
+
+- Contributing to **Noctalia v5** — C++/Wayland desktop shell (9k+ ⭐)
+- Real-time Computer Vision systems (detection, segmentation, NMT)
+- Exploring agentic AI workflows and LLM tooling
+
+---
+
+## 🌟 Open Source
+
+### [Noctalia](REPLACE_WITH_NOCTALIA_REPO_URL) &nbsp;—&nbsp; C++/Wayland Desktop Shell &nbsp;·&nbsp; ⭐ 9k+
+
+Active contributor with **7 merged PRs** across core features, IPC commands, and bug fixes:
+
+| PR | What it does |
+|----|--------------|
+| Notification auto-expiry | Auto-dismiss notifications after configurable timeout |
+| Volume & Mic OSD via IPC | IPC commands to trigger volume/microphone overlay |
+| Keyboard Backlight OSD | UPower D-Bus integration for keyboard brightness overlay |
+| Battery Time Remaining | Display estimated time-to-full / time-to-empty in bar |
+| Polkit Fingerprint Auth fix | Fixed regression breaking fingerprint auth flow |
+| Wallpaper Transition Toggle | IPC command to enable/disable wallpaper transitions |
+| CPU Frequency Stat *(open)* | Real-time CPU frequency display in status bar |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Result |
+|---------|-------------|--------|
+| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection — YOLOv11m with Hindi annotations | **98.1% mAP@50** |
+| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
+| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
+| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **12 ⭐** |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=b4befe)
+![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=b4befe)
+
+**ML / DL**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=b4befe)
+![Transformers](https://img.shields.io/badge/HuggingFace-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=b4befe)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=b4befe)
+![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=b4befe)
+![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=b4befe)
+![Gradio](https://img.shields.io/badge/Gradio-1e1e2e?style=for-the-badge&logo=gradio&logoColor=b4befe)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=b4befe)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=b4befe)
+![Kaggle](https://img.shields.io/badge/Kaggle-1e1e2e?style=for-the-badge&logo=kaggle&logoColor=b4befe)
+![HF Spaces](https://img.shields.io/badge/HF_Spaces-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=b4befe)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=b4befe)
+![Colab](https://img.shields.io/badge/Colab-1e1e2e?style=for-the-badge&logo=googlecolab&logoColor=b4befe)
+
+---
+
+## 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdityaKr015&theme=transparent&hide_border=true&bg_color=1a0a2e&text_color=9b4dca&title_color=9b4dca&fire=ff6b6b&ring=9b4dca&sideNums=9b4dca" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKr015&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKr015&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdityaKr015&theme=catppuccin-mocha&hide_border=true"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me  
-<div align="center">
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=b4befe"/>
   </a>
+  &nbsp;
   <a href="mailto:ak1415966@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=b4befe"/>
+  </a>
+  &nbsp;
   <a href="https://www.kaggle.com/thedebugger2025">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-1e1e2e?style=for-the-badge&logo=kaggle&logoColor=b4befe"/>
   </a>
 </p>
 
+---
 
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
+</p>
