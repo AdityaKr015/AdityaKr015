@@ -69,6 +69,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=b4befe)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=b4befe)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=b4befe)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-1e1e2e?style=for-the-badge&logoColor=b4befe)
 ![Gradio](https://img.shields.io/badge/Gradio-1e1e2e?style=for-the-badge&logo=gradio&logoColor=b4befe)
 
 **Tools & Platforms**
@@ -83,12 +84,6 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 ---
 
 ## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.k8s.rodolphebarbanneau.com/api?username=AdityaKr015&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.k8s.rodolphebarbanneau.com/api/top-langs/?username=AdityaKr015&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AdityaKr015&theme=catppuccin-mocha&hide_border=true"/>
