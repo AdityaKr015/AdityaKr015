@@ -106,7 +106,7 @@ Active contributor:- **8 merged PRs** across OSD/IPC, system monitoring, shell f
     <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=b4befe"/>
   </a>
   &nbsp;
-  <a href="mailto:ak1415966@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ak1415966@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=b4befe"/>
   </a>
   &nbsp;
