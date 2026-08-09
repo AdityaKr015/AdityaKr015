@@ -17,7 +17,7 @@
 
 ## Currently Working On
 
-- Contributing to **Noctalia v5** — C++/Wayland desktop shell (9k+ ⭐)
+- Contributing to **Noctalia v5**:- C++ Wayland desktop shell (9k+ ⭐)
 - Real-time Computer Vision systems (detection, segmentation, NMT)
 - Exploring agentic AI workflows and LLM tooling
 
@@ -37,7 +37,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 | Battery Time Remaining | Display estimated time-to-full / time-to-empty in bar |
 | Polkit Fingerprint Auth fix | Fixed regression breaking fingerprint auth flow |
 | Wallpaper Transition Toggle | IPC command to enable/disable wallpaper transitions |
-| CPU Frequency Stat *(open)* | Real-time CPU frequency display in status bar |
+| CPU Frequency Stat  | Real-time CPU frequency display in status bar |
 
 ---
 
