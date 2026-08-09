@@ -17,7 +17,7 @@
 
 ## Currently Working On
 
-- Contributing to **Noctalia v5**:- C++ Wayland desktop shell (9k+ ⭐)
+- Contributing to **Noctalia v5**:- C++ Wayland desktop shell
 - Real-time Computer Vision systems (detection, segmentation, NMT)
 - Exploring agentic AI workflows and LLM tooling
 
@@ -45,10 +45,13 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 
 | Project | Description | Result |
 |---------|-------------|--------|
-| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection — YOLOv11m with Hindi annotations | **98.1% mAP@50** |
-| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
-| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
-| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **12 ⭐** |
+| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Indian-Sign-Language-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection - YOLOv11m with Hindi annotations | **98.1% mAP@50** |
+| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Eng-to-french-Translation?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
+| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Road-and-Traffic-Signs-Object-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
+| [🐧 Fedora KDE Dotfiles](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Fedora-KDE-Plasma-dotfiles?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) | Fully themed Fedora KDE Plasma rice - SDDM, widgets, wallpapers | **Beautiful Desktop** |
+| [🧠 Seq2Seq NMT (Bahdanau)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) [![Stars](https://img.shields.io/github/stars/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | English -> French translation webapp built from scratch with Bahdanau attention | **From-scratch NMT** |
+| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Free-Resources-for-AI-ML?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **Community favorite** |
+
 
 ---
 
@@ -82,9 +85,9 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKr015&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.k8s.rodolphebarbanneau.com/api?username=AdityaKr015&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKr015&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.k8s.rodolphebarbanneau.com/api/top-langs/?username=AdityaKr015&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -93,6 +96,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 
 ---
 
+
 ## Connect With Me
 
 <p align="center">
@@ -100,7 +104,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
     <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=b4befe"/>
   </a>
   &nbsp;
-  <a href="ak1415966@gmail.com">
+  <a href="mailto:ak1415966@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=b4befe"/>
   </a>
   &nbsp;
