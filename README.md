@@ -100,7 +100,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
     <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=b4befe"/>
   </a>
   &nbsp;
-  <a href="mailto:ak1415966@gmail.com">
+  <a href="ak1415966@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=b4befe"/>
   </a>
   &nbsp;
