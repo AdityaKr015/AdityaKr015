@@ -9,13 +9,13 @@
 
 <p align="center">
   <b>AI/ML Student &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Open Source Contributor</b><br/>
-  3rd Year B.Tech AI/ML &nbsp;·&nbsp; India<br/>
-  Building real-world CV systems and contributing to open source C++ desktop projects
+  B.Tech AI/ML &nbsp;·&nbsp; India<br/>
+  Building Real-World CV systems and Contributing to Open Source C++ Desktop Shell (Noctalia)
 </p>
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 
 - Contributing to **Noctalia v5** — C++/Wayland desktop shell (9k+ ⭐)
 - Real-time Computer Vision systems (detection, segmentation, NMT)
@@ -23,9 +23,9 @@
 
 ---
 
-## 🌟 Open Source
+## Open Source
 
-### [Noctalia](REPLACE_WITH_NOCTALIA_REPO_URL) &nbsp;—&nbsp; C++/Wayland Desktop Shell &nbsp;·&nbsp; ⭐ 9k+
+### [Noctalia](https://github.com/noctalia-dev/noctalia) &nbsp;—&nbsp; C++/Wayland Desktop Shell &nbsp;·&nbsp; ⭐ 9k+
 
 Active contributor with **7 merged PRs** across core features, IPC commands, and bug fixes:
 
@@ -41,7 +41,7 @@ Active contributor with **7 merged PRs** across core features, IPC commands, and
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Result |
 |---------|-------------|--------|
