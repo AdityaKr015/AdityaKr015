@@ -114,9 +114,3 @@ Active contributor:- **8 merged PRs** across OSD/IPC, system monitoring, shell f
     <img src="https://img.shields.io/badge/Kaggle-1e1e2e?style=for-the-badge&logo=kaggle&logoColor=b4befe"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaKr015/AdityaKr015/output/github-contribution-grid-snake.svg"/>
-</p>
