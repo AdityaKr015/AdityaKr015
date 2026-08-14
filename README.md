@@ -4,9 +4,12 @@
 
 B.Tech AI/ML · India
 
-Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) — a C++ Wayland desktop shell, and building real-time CV systems.
+Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) - a Beautiful C++ Wayland desktop shell, and building real-time CV systems.
 
 ## Tech Stack
+
+
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -17,34 +20,33 @@ Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) — a C++ W
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=b4befe)
 ![Transformers](https://img.shields.io/badge/HuggingFace-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=b4befe)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e1e2e?style=for-the-badge&logo=opencv&logoColor=b4befe)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-1e1e2e?style=for-the-badge&logoColor=b4befe)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=b4befe)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=b4befe)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=b4befe)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-1e1e2e?style=for-the-badge&logoColor=b4befe)
 ![Gradio](https://img.shields.io/badge/Gradio-1e1e2e?style=for-the-badge&logo=gradio&logoColor=b4befe)
 
 **Tools & Platforms**
 
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=b4befe)
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=b4befe)
+![HuggingFace](https://img.shields.io/badge/HF%20Spaces-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=b4befe)
 ![Kaggle](https://img.shields.io/badge/Kaggle-1e1e2e?style=for-the-badge&logo=kaggle&logoColor=b4befe)
-![HF Spaces](https://img.shields.io/badge/HF_Spaces-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=b4befe)
-![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=b4befe)
+![VS Code](https://img.shields.io/badge/VS%20Code-1e1e2e?style=for-the-badge&logo=visualstudiocode&logoColor=b4befe)
 ![Colab](https://img.shields.io/badge/Colab-1e1e2e?style=for-the-badge&logo=googlecolab&logoColor=b4befe)
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Result |
 |---------|-------------|--------|
-| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Indian-Sign-Language-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection - YOLOv11m with Hindi annotations | **98.1% mAP@50** |
-| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Eng-to-french-Translation?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
-| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Road-and-Traffic-Signs-Object-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
-| [🐧 Fedora KDE Dotfiles](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Fedora-KDE-Plasma-dotfiles?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) | Fully themed Fedora KDE Plasma rice - SDDM, widgets, wallpapers | **Beautiful Desktop** |
-| [🧠 Seq2Seq NMT (Bahdanau)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) [![Stars](https://img.shields.io/github/stars/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | English -> French translation webapp built from scratch with Bahdanau attention | **From-scratch NMT** |
-| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Free-Resources-for-AI-ML?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **Community favorite** |
-
+| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection — YOLOv11m, Hindi annotations | **98.1% mAP@50** |
+| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation)  | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
+| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8 traffic & road sign detection system | **95.1% mAP@50** |
+| [🧠 Seq2Seq NMT](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | Eng → French translation built from scratch with Bahdanau attention | **built from scratch** |
+| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated resource list for AI/ML students | **18 ⭐** |
 
 ## Links
 
