@@ -28,23 +28,7 @@
 ### [Noctalia](https://github.com/noctalia-dev/noctalia)&nbsp;:-&nbsp; C++ Wayland Desktop Shell
 [![Stars](https://img.shields.io/github/stars/noctalia-dev/noctalia?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/noctalia-dev/noctalia)
 
-Active contributor:- **8 merged PRs** across OSD/IPC, system monitoring, shell features, and fixes (+ 1 docs PR in [noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)):
-
-**Notifications & Panel**
-- Auto-clear notification history older than N hours — configurable "Keep history for" setting, 0 keeps everything
-- Fix:- polkit panel opens on fingerprint `show-info` (pam_fprintd), not just password prompts
-
-**OSD & IPC**
-- Volume & mic OSD via IPC without touching audio levels:- `*-show` and `*-osd <value>` variants for external scripts (e.g., MPD volume sync)
-- Keyboard backlight OSD popup via UPower KbdBacklight D-Bus + IPC
-
-**Shell & Wallpaper**
-- Deselect all transition effects to fully disable wallpaper transitions
-- Battery display content options:- Percent / Time / Rate + "None" mode that hides the glyph
-
-**System Monitor (sysmon)**
-- `cpu_freq` stat (X.X GHz) with activity/critical thresholds + plugin API (`freqMhz/maxFreqMhz`)
-- Four new disk stat types:- `disk_free`, `disk_free_pct`, `disk_used`, `disk_used_pct`
+Active contributor:- **12 merged PRs** across OSD/IPC, system monitoring, shell features, and fixes
 
 ---
 
