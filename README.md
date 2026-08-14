@@ -8,9 +8,6 @@ Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) - a Beautif
 
 ## Tech Stack
 
-
-## 🛠 Tech Stack
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=b4befe)
@@ -38,7 +35,7 @@ Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) - a Beautif
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Result |
 |---------|-------------|--------|
