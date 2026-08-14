@@ -1,52 +1,12 @@
-<!-- Profile views + followers -->
-<p align="right">
-  <a href="https://komarev.com/ghpvc/?username=AdityaKr015">
-    <img src="https://komarev.com/ghpvc/?username=AdityaKr015&label=Profile%20Views&color=b4befe&style=flat-square" alt="Profile Views"/>
-  </a>
-</p>
+# Aditya Kumar
 
-<h1 align="center">Hey Fellas, I'm Aditya Kumar</h1>
+**AI/ML Student · Computer Vision · Linux**
 
-<p align="center">
-  <b>AI/ML Student &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Open Source Contributor</b><br/>
-  B.Tech AI/ML &nbsp;·&nbsp; India<br/>
-  Building Real-World CV systems and Contributing to Open Source C++ Desktop Shell (Noctalia)
-</p>
+B.Tech AI/ML · India
 
----
+Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) — a C++ Wayland desktop shell, and building real-time CV systems.
 
-## Currently Working On
-
-- Contributing to **Noctalia v5**:- C++ Wayland desktop shell
-- Real-time Computer Vision systems (detection, segmentation, NMT)
-- Exploring agentic AI workflows and LLM tooling
-
----
-
-## Open Source
-
-### [Noctalia](https://github.com/noctalia-dev/noctalia)&nbsp;:-&nbsp; C++ Wayland Desktop Shell
-[![Stars](https://img.shields.io/github/stars/noctalia-dev/noctalia?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/noctalia-dev/noctalia)
-
-Active contributor:- **12 merged PRs** across OSD/IPC, system monitoring, shell features, and fixes
-
----
-
-## Featured Projects
-
-| Project | Description | Result |
-|---------|-------------|--------|
-| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Indian-Sign-Language-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection - YOLOv11m with Hindi annotations | **98.1% mAP@50** |
-| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Eng-to-french-Translation?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
-| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Road-and-Traffic-Signs-Object-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
-| [🐧 Fedora KDE Dotfiles](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Fedora-KDE-Plasma-dotfiles?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) | Fully themed Fedora KDE Plasma rice - SDDM, widgets, wallpapers | **Beautiful Desktop** |
-| [🧠 Seq2Seq NMT (Bahdanau)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) [![Stars](https://img.shields.io/github/stars/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | English -> French translation webapp built from scratch with Bahdanau attention | **From-scratch NMT** |
-| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Free-Resources-for-AI-ML?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **Community favorite** |
-
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -74,16 +34,19 @@ Active contributor:- **12 merged PRs** across OSD/IPC, system monitoring, shell 
 
 ---
 
-## Stats
+## Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdityaKr015&theme=catppuccin-mocha&hide_border=true"/>
-</p>
+| Project | Description | Result |
+|---------|-------------|--------|
+| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Indian-Sign-Language-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection - YOLOv11m with Hindi annotations | **98.1% mAP@50** |
+| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Eng-to-french-Translation?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Eng-to-french-Translation) | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
+| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Road-and-Traffic-Signs-Object-Detection?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8-based traffic and road sign detection system | **95.1% mAP@50** |
+| [🐧 Fedora KDE Dotfiles](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Fedora-KDE-Plasma-dotfiles?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Fedora-KDE-Plasma-dotfiles) | Fully themed Fedora KDE Plasma rice - SDDM, widgets, wallpapers | **Beautiful Desktop** |
+| [🧠 Seq2Seq NMT (Bahdanau)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) [![Stars](https://img.shields.io/github/stars/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | English -> French translation webapp built from scratch with Bahdanau attention | **From-scratch NMT** |
+| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) [![Stars](https://img.shields.io/github/stars/AdityaKr015/Free-Resources-for-AI-ML?style=flat-square&label=%E2%AD%90&color=b4befe)](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated open resource list for AI/ML students | **Community favorite** |
 
----
 
-
-## Connect With Me
+## Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-kumar-7b6922342/">
@@ -97,4 +60,6 @@ Active contributor:- **12 merged PRs** across OSD/IPC, system monitoring, shell 
   <a href="https://www.kaggle.com/thedebugger2025">
     <img src="https://img.shields.io/badge/Kaggle-1e1e2e?style=for-the-badge&logo=kaggle&logoColor=b4befe"/>
   </a>
-</p>
+</
+
+---
