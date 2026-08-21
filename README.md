@@ -39,11 +39,11 @@ Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) - a Beautif
 
 | Project | Description | Result |
 |---------|-------------|--------|
-| [🤟 ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection — YOLOv11m, Hindi annotations | **98.1% mAP@50** |
-| [🇫🇷 Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation)  | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
-| [🚗 Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8 traffic & road sign detection system | **95.1% mAP@50** |
-| [🧠 Seq2Seq NMT](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | Eng → French translation built from scratch with Bahdanau attention | **built from scratch** |
-| [📚 Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated resource list for AI/ML students | **18 ⭐** |
+| [ISL Detection](https://github.com/AdityaKr015/Indian-Sign-Language-Detection) | Real-time Indian Sign Language detection — YOLOv11m, Hindi annotations | **98.1% mAP@50** |
+| [Eng → French NMT](https://github.com/AdityaKr015/Eng-to-french-Translation)  | Fine-tuned Helsinki-NLP on WMT14, deployed on HF Spaces with attention heatmaps | **BLEU 41.7 · chrF 63** |
+| [Road Sign Detection](https://github.com/AdityaKr015/Road-and-Traffic-Signs-Object-Detection) | YOLOv8 traffic & road sign detection system | **95.1% mAP@50** |
+| [Seq2Seq NMT](https://github.com/AdityaKr015/NMT-Eng-to-French-Seq2Seq-Bahdanau-Attention) | Eng → French translation built from scratch with Bahdanau attention | **built from scratch** |
+| [Free AI/ML Resources](https://github.com/AdityaKr015/Free-Resources-for-AI-ML) | Curated resource list for AI/ML students | **18 ⭐** |
 
 ## Links
 
