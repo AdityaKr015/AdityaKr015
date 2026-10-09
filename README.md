@@ -4,7 +4,7 @@
 
 B.Tech AI/ML · India
 
-Contributing to [Noctalia](https://github.com/noctalia-dev/noctalia) - a Beautiful C++ Wayland desktop shell, and building real-time CV systems.
+Contributing to [Noctalia's Project](https://github.com/noctalia-dev) - A family of native Wayland projects that feel like one desktop.
 
 ## Tech Stack
 
