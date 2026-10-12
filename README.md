@@ -4,7 +4,7 @@
 
 B.Tech AI/ML · India
 
-Contributing to [Noctalia's Project](https://github.com/noctalia-dev) - A family of native Wayland projects that feel like one desktop.
+Active Contributor and Collaborator of [Noctalia's Project](https://github.com/noctalia-dev) - A family of native Wayland projects that feel like one desktop.
 
 ## Tech Stack
 
